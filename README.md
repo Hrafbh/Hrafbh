@@ -35,7 +35,7 @@ My recent work includes:
 
 ### Main tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,azure,aws,docker,git,github,linux,mongodb,pytorch,tensorflow,fastapi,scikitlearn&theme=light&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,sql,pyspark,databricks,azure,aws,docker,airflow,git,scikitlearn,tensorflow,fastapi,scikitlearn&theme=light&perline=6" />
 </p>
 
 ### Data engineering & analytics tools
