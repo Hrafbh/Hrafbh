@@ -35,16 +35,13 @@ My recent work includes:
 
 ### Main tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,spark,azure,aws,docker,airflow,git,scikitlearn,tensorflow,fastapi&theme=light&perline=6" />
-</p>
-
-### Data engineering & analytics tools
-<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,postgres,azure,aws,docker,git,sklearn,tensorflow,fastapi&theme=light&perline=6" />
+  <br/><br/>
+  <img src="https://api.iconify.design/simple-icons:pandas.svg?height=42" alt="Pandas" />
+  <img src="https://api.iconify.design/simple-icons:apachespark.svg?height=42" alt="PySpark" />
   <img src="https://api.iconify.design/simple-icons:databricks.svg?height=42" alt="Databricks" />
-  <img src="https://api.iconify.design/simple-icons:apacheairflow.svg?height=42" alt="Apache Airflow" />
+  <img src="https://api.iconify.design/simple-icons:apacheairflow.svg?height=42" alt="Airflow" />
   <img src="https://api.iconify.design/simple-icons:powerbi.svg?height=42" alt="Power BI" />
-  <img src="https://api.iconify.design/simple-icons:langchain.svg?height=42" alt="LangChain" />
-  <img src="https://api.iconify.design/simple-icons:apachespark.svg?height=42" alt="Apache Spark / PySpark" />
 </p>
 
 ### Core keywords
