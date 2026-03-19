@@ -36,12 +36,14 @@ My recent work includes:
 ### Main tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,postgres,azure,aws,docker,git,sklearn,tensorflow,fastapi&theme=light&perline=6" />
-  <br/><br/>
-  <img src="https://api.iconify.design/simple-icons:pandas.svg?height=42" alt="Pandas" />
-  <img src="https://api.iconify.design/simple-icons:apachespark.svg?height=42" alt="PySpark" />
-  <img src="https://api.iconify.design/simple-icons:databricks.svg?height=42" alt="Databricks" />
-  <img src="https://api.iconify.design/simple-icons:apacheairflow.svg?height=42" alt="Airflow" />
-  <img src="https://api.iconify.design/simple-icons:powerbi.svg?height=42" alt="Power BI" />
+</p>
+### Data engineering & analytics tools
+<p align="center">
+  <img src="https://api.iconify.design/simple-icons:databricks.svg?height=42&color=%23FF3621" alt="Databricks" />
+  <img src="https://api.iconify.design/simple-icons:apacheairflow.svg?height=42&color=%23017CEE" alt="Airflow" />
+  <img src="https://api.iconify.design/simple-icons:powerbi.svg?height=42&color=%23F2C811" alt="Power BI" />
+  <img src="https://api.iconify.design/simple-icons:pandas.svg?height=42&color=%23150458" alt="Pandas" />
+  <img src="https://api.iconify.design/simple-icons:apachespark.svg?height=42&color=%23E25A1C" alt="PySpark" />
 </p>
 
 ### Core keywords
