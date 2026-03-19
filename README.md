@@ -7,7 +7,6 @@
 <p align="center">
   <a href="mailto:achrafbahich01@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/achrafbahich/">LinkedIn</a> •
-  <a href="https://github.com/Hrafbh">GitHub</a> •
   <a href="https://hrafbh.github.io/">Portfolio</a>
 </p>
 
