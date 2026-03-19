@@ -35,7 +35,7 @@ My recent work includes:
 
 ### Main tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,postgres,azure,aws,docker,git,sklearn,tensorflow,fastapi&theme=light&perline=6" />
+  <img src="https://skillicons.dev/icons?i=py,postgres,azure,aws,docker,git,sklearn,tensorflow,fastapi,langchain&theme=light&perline=6" />
 </p>
 
 ### Data engineering & analytics tools
@@ -48,7 +48,7 @@ My recent work includes:
 </p>
 
 ### Core keywords
-`Python` `SQL` `PySpark` `Databricks` `Airflow` `Azure` `AWS` `Docker` `Git` `Linux` `MongoDB` `FastAPI` `TensorFlow` `Scikit-learn` `LangChain` `RAG`
+`Python` `SQL` `PySpark` `Databricks` `Airflow` `Azure` `AWS` `Docker` `Git` `FastAPI` `TensorFlow` `Scikit-learn` `LangChain` `RAG`
 
 ---
 
