@@ -37,6 +37,7 @@ My recent work includes:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,postgres,azure,aws,docker,git,sklearn,tensorflow,fastapi&theme=light&perline=6" />
 </p>
+
 ### Data engineering & analytics tools
 <p align="center">
   <img src="https://api.iconify.design/simple-icons:databricks.svg?height=42&color=%23FF3621" alt="Databricks" />
